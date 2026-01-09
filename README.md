@@ -1,4 +1,3 @@
 <p align="center"><img src="https://komarev.com/ghpvc/?username=tigerprint&color=F4A348&label=zooㅤviewers" alt="Centered Image"> <br></p>
 ㅤ
-<p align="center"><img width="736" height="414" alt="534003881-399b4eea-c09a-4ba1-aa10-196cd605d56f-modified" src="https://github.com/user-attachments/assets/4f3d37c6-2164-4000-a6da-42869d346992" />
- <br></p>
+<p align="center"><img width="1136" height="538" alt="8427bcb80b4ce40ddf70bbf3319c9fb9-modified" src="https://github.com/user-attachments/assets/a3b070c0-79df-4bf6-bc55-9b57e848b59c" /> <br></p>

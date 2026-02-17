@@ -1,4 +1,4 @@
-<p align="center"><img src="https://komarev.com/ghpvc/?username=tigerprint&color=861912&label=viewers" alt="Centered Image">
+<p align="center"><img src="https://komarev.com/ghpvc/?username=tigerprint&color=B9241D&label=viewers" alt="Centered Image">
 ㅤ
 <p align="center"><img width="735" height="568" alt="image" src="https://github.com/user-attachments/assets/e4ec4f77-eb8f-4b43-8648-0a37a007e41c" />
  
